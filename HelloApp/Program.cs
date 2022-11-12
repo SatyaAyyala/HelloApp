@@ -8,6 +8,7 @@ namespace HelloApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to programming");
+            Console.WriteLine("This is git");
         }
     }
 }
